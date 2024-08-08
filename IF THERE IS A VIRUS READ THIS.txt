@@ -1,0 +1,4 @@
+If you open the application and see blue screen that says: Windows protected your computer from virus.
+Then click more and click run anyway.
+This application IS NOT A VIRUS this window apper because this application has no autor in the file so windows is thinking that this file is a virus.
+if you dont trus me delete the files
