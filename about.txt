@@ -1,0 +1,3 @@
+This is an application for calculating exchange rates, currencies: CZK, EUR, CAD, USD, PLN, CNY, AUD, BRL, CHF
+The entire application is connected to the online servers of cnb.cz.
+It also includes a LITE version for entering exchange rates manually.
