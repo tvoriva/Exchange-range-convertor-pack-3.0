@@ -1,0 +1,4 @@
+Thanks:
+Thanks to the Czech National Bank (cnb.cz) for providing the exchange rates.
+source: https://www.cnb.cz/cs/financni_trhy/devizovy_trh/kurzy_devizoveho_trhu/denni_kurz.txt
+THANK YOU.
